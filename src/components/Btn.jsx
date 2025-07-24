@@ -7,7 +7,7 @@ const Btn = () => {
         from: `'${config.NAME}' <${config.email_domain}>`,
         to: [`${config.CLASS_TEACHER}`],
         cc: Object.values(config.SUBJECT_TEACHERS),
-        subject: "ABUI K HO YO",
+        subject: "Leave Request For ",
         html: `<h1 style="background-color:green;">Hello gang world</h1>`,
       },
     };
