@@ -18,7 +18,7 @@ A desktop application for sending emails, built with Electron and React. Designe
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/Arkaive19/deerwalk-mailing-system
    cd deerwalk-mailing-system-main
    ```
 
